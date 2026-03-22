@@ -100,8 +100,3 @@
   Para dúvidas sobre o template, fluxo de submissão ou políticas do TCC, contate a coordenação do DECOM ou o orientador responsável pela disciplina.
 
   <p align="right"><a href="#top">⬆️</a></p>
-## Contato
-
-Para dúvidas sobre o template, fluxo de submissão ou políticas do TCC, contate a coordenação do DECOM ou o orientador responsável pela disciplina.
-
-<p align="right"><a href="#top">⬆️</a></p>
