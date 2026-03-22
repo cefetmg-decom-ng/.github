@@ -1,31 +1,6 @@
 
 <a name="top"></a>
-# 🎓 Departamento de Computação (DECOM) - TCCs | CEFET-MG
-
-Bem-vindo ao espaço no GitHub dedicado à organização e versionamento dos Trabalhos de Conclusão de Curso (TCC) dos alunos do DECOM - CEFET-MG.
-
-Este repositório/template tem por objetivo padronizar a entrega de artefatos de software, documentação e metadados, facilitando a colaboração entre alunos e orientadores e preparando os estudantes para as melhores práticas da indústria.
-
----
-
-## Índice
-
-- [🎓 Departamento de Computação (DECOM) - TCCs | CEFET-MG](#-departamento-de-computação-decom---tccs--cefet-mg)
-  - [Índice](#índice)
-  - [Sobre](#sobre)
-- [🎓 Departamento de Computação (DECOM) - TCCs | CEFET-MG](#-departamento-de-computação-decom---tccs--cefet-mg-1)
-  - [Índice](#índice-1)
-  - [Sobre](#sobre-1)
-  - [Nossos cursos](#nossos-cursos)
-  - [Regras gerais para alunos](#regras-gerais-para-alunos)
-    - [1. Visibilidade e LGPD](#1-visibilidade-e-lgpd)
-    - [2. Nomenclatura de times e repositórios](#2-nomenclatura-de-times-e-repositórios)
-    - [3. Estrutura obrigatória do repositório](#3-estrutura-obrigatória-do-repositório)
-  - [Área dos professores e orientadores](#área-dos-professores-e-orientadores)
-  - [Links úteis](#links-úteis)
-  - [Licença](#licença)
-  <a name="top"></a>
-  # 🎓 Departamento de Computação (DECOM) - TCCs | CEFET-MG
+  # 🎓 Departamento de Computação (DECOM) - | CEFET-MG
 
   Bem-vindo ao espaço no GitHub dedicado à organização e versionamento dos Trabalhos de Conclusão de Curso (TCC) dos alunos do DECOM - CEFET-MG.
 
