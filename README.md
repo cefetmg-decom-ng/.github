@@ -1,65 +1,104 @@
-🎓 Departamento de Computação (DECOM) - TCCs | CEFET-MG
+
+<a name="top"></a>
+# 🎓 Departamento de Computação (DECOM) - TCCs | CEFET-MG
 
 Bem-vindo ao espaço no GitHub dedicado à organização e versionamento dos Trabalhos de Conclusão de Curso (TCC) dos alunos do DECOM - CEFET-MG.
 
-Este ambiente visa padronizar a entrega de artefatos de software, documentação e metadados, facilitando a colaboração entre alunos e orientadores, além de preparar os estudantes para as melhores práticas da indústria.
+Este repositório/template tem por objetivo padronizar a entrega de artefatos de software, documentação e metadados, facilitando a colaboração entre alunos e orientadores e preparando os estudantes para as melhores práticas da indústria.
 
-📌 Nossos Cursos
+---
 
-Abrangemos projetos dos seguintes níveis de ensino:
+## Índice
 
-Ensino Técnico: Informática, Redes de Computadores, etc.
+- [🎓 Departamento de Computação (DECOM) - TCCs | CEFET-MG](#-departamento-de-computação-decom---tccs--cefet-mg)
+  - [Índice](#índice)
+  - [Sobre](#sobre)
+  - [Nossos cursos](#nossos-cursos)
+  - [Regras gerais para alunos](#regras-gerais-para-alunos)
+    - [1. Visibilidade e LGPD](#1-visibilidade-e-lgpd)
+    - [2. Nomenclatura de times e repositórios](#2-nomenclatura-de-times-e-repositórios)
+    - [3. Estrutura obrigatória do repositório](#3-estrutura-obrigatória-do-repositório)
+  - [Área dos professores e orientadores](#área-dos-professores-e-orientadores)
+  - [Links úteis](#links-úteis)
+  - [Licença](#licença)
+  - [Contato](#contato)
 
-Ensino Superior (Graduação): Engenharia de Computação, etc.
+---
 
-📜 Regras Gerais para Alunos
+## Sobre
 
-Se você é aluno e está iniciando seu TCC, leia atentamente as diretrizes abaixo. Seu repositório será gerado automaticamente via GitHub Classroom através de um link fornecido pelo seu professor/orientador.
+Este espaço centraliza o template e as diretrizes para os Trabalhos de Conclusão de Curso (TCC) do Departamento de Computação (DECOM) do CEFET-MG.
 
-1. Visibilidade e LGPD (Lei Geral de Proteção de Dados)
+[Voltar ao topo](#top)
 
-Privacidade Padrão: Todos os repositórios de TCC são criados como PRIVADOS. Apenas os membros do grupo, o orientador e a banca avaliadora terão acesso.
+## Nossos cursos
 
-Publicação: Após a aprovação final do TCC, mediante assinatura de um termo de consentimento pelo grupo, o repositório poderá ser tornado Público e indexado em nosso Catálogo de TCCs Aprovados.
+A cobertura inclui projetos desenvolvidos nos seguintes níveis de ensino:
 
-2. Nomenclatura de Times e Repositórios
+- Ensino Técnico: Informática, Redes de Computadores, etc.
+- Ensino Superior (Graduação): Engenharia de Computação, etc.
 
-Times (Grupos): Siga o padrão [CURSO][ANO_INGRESSO]-[NomeFantasia]. Exemplo: INF2023-TechSolutions.
+[Voltar ao topo](#top)
 
-Repositórios: Serão gerados no formato TCC-[NIVEL]-[CURSO]-[ANO].[SEMESTRE]-[TEMA_CURTO]. Exemplo: TCC-TEC-INF-2025.1-AppGestao.
+## Regras gerais para alunos
 
-3. Estrutura Obrigatória do Repositório
+Se você é aluno e está iniciando seu TCC, leia atentamente as diretrizes abaixo. O repositório do seu grupo normalmente será criado via GitHub Classroom a partir de um link fornecido pelo professor/orientador.
 
-O seu repositório deve obrigatoriamente seguir a estrutura base fornecida no nosso Template:
+[Voltar ao topo](#top)
 
-📄 README.md principal: Deve conter o título do trabalho, nome dos autores, orientador e um resumo claro do problema e da solução.
+### 1. Visibilidade e LGPD
 
-📁 /artefatos: Pasta dedicada exclusivamente a códigos-fonte, scripts de banco de dados e arquivos de configuração. Deve conter instruções claras de como compilar e rodar o projeto.
+- Privacidade padrão: todos os repositórios de TCC são criados como PRIVADOS. Apenas os membros do grupo, o orientador e a banca avaliadora têm acesso.
+- Publicação: após aprovação final e assinatura de termo de consentimento pelo grupo, o repositório poderá ser tornado público e indexado no Catálogo de TCCs Aprovados.
 
-📁 /docs: Pasta para a documentação de engenharia de software. Deve incluir:
+[Voltar ao topo](#top)
 
-Diagramas (Casos de Uso, Classes, Modelo de Dados, etc).
+### 2. Nomenclatura de times e repositórios
 
-O arquivo de Documentação de Software em PDF (conforme template oficial disponibilizado pela coordenação).
+- Times (grupos): siga o padrão [CURSO][ANO_INGRESSO]-[NomeFantasia]. Exemplo: `INF2023-TechSolutions`.
+- Repositórios: padrão `TCC-[NIVEL]-[CURSO]-[ANO].[SEMESTRE]-[TEMA_CURTO]`. Exemplo: `TCC-TEC-INF-2025.1-AppGestao`.
 
-⚖️ LICENSE: Arquivo de licença do projeto (Sugerimos MIT para código).
+[Voltar ao topo](#top)
 
-📝 CITATION.cff: Arquivo preenchido com os dados do seu TCC para permitir citações acadêmicas automatizadas.
+### 3. Estrutura obrigatória do repositório
 
-🧑‍🏫 Área dos Professores e Orientadores
+O repositório deve obrigatoriamente seguir a estrutura base fornecida no template. Pelo menos os itens abaixo devem estar presentes:
 
-O acesso administrativo e de edição aos repositórios e configurações desta organização é restrito ao corpo docente do DECOM.
+- `README.md` principal: título do trabalho, autores, orientador e um resumo do problema e da solução.
+- `artefatos/`: código-fonte, scripts de banco de dados e arquivos de configuração. Incluir instruções de compilação/execução.
+- `docs/`: documentação de engenharia de software (diagramas, modelo de dados, casos de uso, etc.) e o PDF da documentação formal conforme o template da coordenação.
+- `LICENSE`: arquivo de licença (sugerimos MIT para código).
+- `CITATION.cff`: facilitar citações acadêmicas do TCC.
 
-Manuais e Rubricas: Diretrizes específicas para avaliação e acompanhamento encontram-se no repositório restrito coordenacao-tcc.
+[Voltar ao topo](#top)
 
-Geração de Turmas: Utilize sempre o repositório tcc-template como base ao criar novas turmas no GitHub Classroom.
+## Área dos professores e orientadores
 
-🔗 Links Úteis
+O acesso administrativo e de edição dos repositórios e das configurações desta organização é restrito ao corpo docente do DECOM.
 
-Repositório Template Base para TCCs
+- Manuais e rubricas: diretrizes específicas para avaliação e acompanhamento estão no repositório restrito `coordenacao-tcc`.
+- Geração de turmas: utilize o repositório `tcc-template` como base ao criar novas turmas via GitHub Classroom.
 
-Catálogo de TCCs Aprovados (Sumário)
+[Voltar ao topo](#top)
 
-Site Oficial do CEFET-MG
+## Links úteis
 
-Organização mantida pelo Departamento de Computação - CEFET-MG
+- Repositório template base para TCCs — (substitua por URL do template quando disponível)
+- Catálogo de TCCs aprovados (sumário) — (substitua por URL quando disponível)
+- Site oficial do CEFET-MG — (substitua por URL quando disponível)
+
+[Voltar ao topo](#top)
+
+## Licença
+
+Organização mantida pelo Departamento de Computação - CEFET-MG.
+
+Incluir aqui o arquivo `LICENSE` no repositório (sugerimos MIT para artefatos de código). Se for necessário outro tipo de licença, documente a escolha no repositório.
+
+[Voltar ao topo](#top)
+
+## Contato
+
+Para dúvidas sobre o template, fluxo de submissão ou políticas do TCC, contate a coordenação do DECOM ou o orientador responsável pela disciplina.
+
+[Voltar ao topo](#top)
